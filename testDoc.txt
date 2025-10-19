@@ -1,4 +1,0 @@
-cats
-chase
-dogs
-cats chase dogs
